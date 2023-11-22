@@ -3,7 +3,7 @@
 // 	protoc-gen-go v1.31.0
 // 	protoc        v4.25.1
 // source: sso/sso.proto
-
+//add comment
 package ssov1
 
 import (
