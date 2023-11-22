@@ -1,4 +1,4 @@
-module servicesSSO
+module github.com/Polilo-User/servicesSSO
 
 go 1.21.4
 
